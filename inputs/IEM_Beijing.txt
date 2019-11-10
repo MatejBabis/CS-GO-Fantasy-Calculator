@@ -1,0 +1,12 @@
+TOURNAMENT: IEM Beijing
+MULTIPLIER: 0.9
+MAX_SCORE: 960
+
+Input used:
+1	Když se chce, tak to jde	Tademon	107 / 80	525	712
+2	čšžšáíéýz	Rakvis	98 / 60	523	681
+3	The Chosen Ones	RippSir	74 / 40	307	421
+4	podle citu	impvlse	126 / 30	194	350
+5	Nádech, výdech, nádech, výdech	KokyTheGod	78 / 40	32	150
+6	Vyrobky mlecne to je marne	Vrzman	56 / 10	-18	48
+7	5	Polysmen	29 / 60	-153	-64
