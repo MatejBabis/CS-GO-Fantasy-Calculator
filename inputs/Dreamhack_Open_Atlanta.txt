@@ -1,6 +1,6 @@
-TOURNAMENT: IEM Beijing
-MULTIPLIER: 0.9
-MAX_SCORE: 960
+TOURNAMENT: Dreamhack Open Atlanta
+MULTIPLIER: 0.5
+MAX_SCORE: 865
 
 Input used:
 #	Team	User	Role / Boost	Points	Total
