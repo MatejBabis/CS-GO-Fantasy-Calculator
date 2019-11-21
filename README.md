@@ -1,4 +1,8 @@
 # Waid score calculator for HLTV's CS:GO fantasy
 
-1. run `parse_event` with new event results to compute metadata
-2. run `compute_results` to get the newest version of the rankings
+## To view current standings
+* simply scroll down to the bottom of `compute_results.ipynb`
+
+## To update/add new event results
+1. run `parse_event.ipynb` with new event results to compute metadata
+2. run `compute_results.ipynb` to get the newest version of the rankings
