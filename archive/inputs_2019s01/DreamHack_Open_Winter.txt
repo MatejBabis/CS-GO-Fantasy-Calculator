@@ -1,0 +1,14 @@
+TOURNAMENT: DreamHack Open Winter
+MULTIPLIER: 0.8
+MAX_SCORE: 660
+
+Input used:
+#	Team	User	Role / Boost	Points	Total
+1	perfektni analyza	impvlse	94 / 40	317	451
+2	Pyčo	Polysmen	42 / 40	323	405
+3	Fuckers ft. MC Břetislav	Tademon	81 / 50	130	261
+4	Digizmena na Megagarurumona	Vrzman	76 / 60	93	229
+5	PRAHAAAA	KokyTheGod	64 / 40	102	206
+6	The Chosen Ones	RippSir	73 / 30	82	185
+7	Neřeknu	rahic	69 / 20	7	96
+8	Fb kigf	Rakvis	0 / 0	-88	-88

@@ -1,0 +1,13 @@
+TOURNAMENT: CSGO Asia Championship
+MULTIPLIER: 0.9
+MAX_SCORE: 515
+
+Input used:
+#	Team	User	Role / Boost	Points	Total
+1	Všichni 1 >>> Matěj 0	KokyTheGod	51 / 40	109	200
+2	Poslední, ale kvůli smůle	Vrzman	34 / 50	112	196
+3	The Chosen Ones	RippSir	78 / 40	73	191
+4	8	Polysmen	55 / 30	12	97
+5	Vojta, ji daprdele!	impvlse	26 / 40	-75	-9
+6	Pacholci	Tademon	43 / 30	-91	-18
+7	lol to tak	Rakvis	29 / 20	-150	-101

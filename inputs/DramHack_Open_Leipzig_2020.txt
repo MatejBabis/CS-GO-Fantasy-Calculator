@@ -1,5 +1,5 @@
 TOURNAMENT: DramHack Open Leipzig 2020
-MULTIPLIER: 0.9
+MULTIPLIER: 1
 MAX_SCORE: 600
 
 Input used:
