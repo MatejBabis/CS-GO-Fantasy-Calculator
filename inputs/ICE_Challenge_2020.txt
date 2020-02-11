@@ -1,6 +1,6 @@
 TOURNAMENT: ICE Challenge 2020
 MULTIPLIER: 1.0
-MAX_SCORE: 506
+MAX_SCORE: 496
 
 Input used:
 1	The Chosen Ones	RippSir	127 / 80	139	51	397
