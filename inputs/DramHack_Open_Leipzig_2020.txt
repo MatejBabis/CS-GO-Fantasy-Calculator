@@ -1,13 +1,14 @@
 TOURNAMENT: DramHack Open Leipzig 2020
-MULTIPLIER: 1
+MULTIPLIER: 0.9
 MAX_SCORE: 600
 
 Input used:
-#	Team	User	Role / Boost	Points	TeamPoints	Total
-1	Karambit Doppler StatTrak	KokyTheGod	82 / 50	123	6	261
-2	Kes	Vrzman	96 / 40	113	6	255
-3	The Chosen Ones	RippSir	92 / 20	117	15	244
-4	new year new me	impvlse	101 / 20	33	42	196
-5	Kniff je muj	Tademon	39 / 10	-11	-39	-1
-6	Ou se babiiiiii	Rakvis	20 / 0	-26	-30	-36
-7	Najf	Polysmen	21 / 20	-46	-39	-44
+#	TEAM	USER	ROLE / BOOST	POINTS	TEAM POINTS	TOTAL
+1	The Chosen Ones	RippSir	127 / 80	139	51	397
+2	1337	Polysmen	114 / 60	102	60	336
+3	Dlanovku za stovku	impvlse	116 / 40	94	33	283
+4	I win kniffs all day long	Tademon	104 / 30	72	60	266
+5	Im in love with the coco	KokyTheGod	95 / 20	94	42	251
+6	Tududutudududu	Rakvis	82 / 30	80	33	225
+7	Tududu dudududu	Vrzman	95 / 80	-16	24	183
+
