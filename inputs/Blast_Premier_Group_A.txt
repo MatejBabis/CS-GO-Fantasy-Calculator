@@ -1,0 +1,12 @@
+TOURNAMENT: Blast Premier Group A
+MULTIPLIER: 0.8
+MAX_SCORE: 411
+
+Input used:
+1	The Chosen Ones	RippSir	115 / 40	98	48	301
+2	Ohon na ruční pohon	impvlse	95 / 30	106	39	270
+3	Nejlepší turnaj sezony	Tademon	79 / 30	96	48	253
+4	fire in the a-hole	Rakvis	62 / 20	96	48	226
+5	#fazeup	KokyTheGod	89 / 50	61	21	221
+6	Teknopatia	Polysmen	29 / 20	76	48	173
+7	Nejdulezitejsi tipovacka	Vrzman	36 / 30	8	12	86

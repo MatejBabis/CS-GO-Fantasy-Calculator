@@ -1,0 +1,12 @@
+TOURNAMENT: ICE Challenge 2020
+MULTIPLIER: 1.0
+MAX_SCORE: 496
+
+Input used:
+1	The Chosen Ones	RippSir	127 / 80	139	51	397
+2	1337	Polysmen	114 / 60	102	60	336
+3	Dlaňovku za stovku	impvlse	116 / 40	94	33	283
+4	I win kniffs all day long	Tademon	104 / 30	72	60	266
+5	I'm in love with the coco	KokyTheGod	95 / 20	94	42	251
+6	Tududutudududu	Rakvis	82 / 30	80	33	225
+7	Tududu dudududu	Vrzman	95 / 80	-16	24	183
