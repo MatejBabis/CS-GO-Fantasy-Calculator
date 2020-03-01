@@ -1,9 +1,8 @@
-TOURNAMENT: ICE Challenge 2020
+TOURNAMENT: DH Open Anaheim 2020
 MULTIPLIER: 1.0
 MAX_SCORE: 593
 
 Input used:
-#	Team	User	Role / Boost	Points	Team Points	Total
 1	Konec Saškáren	impvlse	61 / 5	238	87	391
 2	Aleksib FTW	KokyTheGod	50 / 15	261	60	386
 3	1st place attack	Tademon	62 / 15	249	42	368
