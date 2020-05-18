@@ -1,0 +1,10 @@
+TOURNAMENT: ESL One Road to Rio - CIS
+MULTIPLIER: 1.1
+MAX_SCORE: 605
+
+Input used:
+1	Nenivsechno zlato co se trpyti	Vrzman	127 / 20	277	114	538
+2	wellbalanced	impvlse	122 / 40	108	-3	267
+3	Vychodnari	RippSir	94 / 30	43	33	200
+4	Yolo	Tademon	77 / 35	19	-39	92
+5	Bongistaan	KokyTheGod	49 / 15	-28	15	51

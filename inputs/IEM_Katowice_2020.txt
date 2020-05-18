@@ -1,0 +1,10 @@
+TOURNAMENT: IEM Katowice 2020
+MULTIPLIER: 1.2
+MAX_SCORE: 566
+
+Input used:
+1	The Chosen Ones	RippSir	85 / 0	161	57	303
+2	Polski kurw	Tademon	97 / 25	109	57	288
+3	I gotta feeling	KokyTheGod	63 / 30	172	21	286
+4	fnatic doted vubec nehrali	impvlse	70 / 30	134	21	255
+5	Mysi Spekulant	Vrzman	52 / 35	144	3	234

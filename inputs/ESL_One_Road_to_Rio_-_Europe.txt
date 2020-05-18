@@ -1,0 +1,10 @@
+TOURNAMENT: ESL One Road to Rio - Europe
+MULTIPLIER: 1.2
+MAX_SCORE: 545
+
+Input used:
+1	Pyramidove schema	Vrzman	123 / 45	185	129	482
+2	Bongistaan	KokyTheGod	106 / 30	77	66	279
+3	Anti ty vis kdo	Tademon	95 / 20	55	102	272
+4	The Chosen One	RippSir	51 / 30	5	102	188
+5	The Chosen Ones	impvlse	46 / 40	-45	75	116

@@ -1,0 +1,10 @@
+TOURNAMENT: ESL One Road to Rio - North America
+MULTIPLIER: 1.1
+MAX_SCORE: 623
+
+Input used:
+1	knif comeback starts here	impvlse	110 / 30	165	114	419
+2	NA! Live is life NANANANANA!	Vrzman	97 / 50	132	78	357
+3	Bongistaan	KokyTheGod	77 / 20	93	69	259
+4	Yolo	Tademon	62 / 30	160	6	258
+5	The Chosen Ones	RippSir	65 / 35	51	15	166
