@@ -1,0 +1,11 @@
+TOURNAMENT: Flashpoint 1 Playoffs
+MULTIPLIER: 1
+MAX_SCORE: 574
+
+Input used:
+1	The Chosen Ones	RippSir	113 / 35	279	126	553
+2	FunPlusPhoenix da best team	KokyTheGod	102 / 10	214	81	407
+3	Nejhorsi tym	Vrzman	65 / 25	211	81	382
+4	Sileni Lvi	Tademon	96 / 10	132	99	337
+5	nezajem	impvlse	37 / 20	205	63	325
+

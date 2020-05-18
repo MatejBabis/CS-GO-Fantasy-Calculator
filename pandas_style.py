@@ -21,3 +21,4 @@ def bold(s):
     Make the output bold
     '''
     return 'font-weight: bold'
+

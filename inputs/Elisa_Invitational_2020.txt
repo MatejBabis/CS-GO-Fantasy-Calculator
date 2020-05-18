@@ -1,0 +1,10 @@
+TOURNAMENT: Elisa Invitational 2020
+MULTIPLIER: 1
+MAX_SCORE: 499
+
+Input used:
+1	no xseveN no point	impvlse	86 / 25	81	51	243
+2	Tym tvoji mamy	Tademon	47 / 10	93	33	183
+3	Alluminati	Vrzman	33 / 20	42	-21	74
+4	The Chosen Ones	RippSir	36 / 15	-21	15	45
+5	Bongistaan	KokyTheGod	26 / 10	-120	-48	-132

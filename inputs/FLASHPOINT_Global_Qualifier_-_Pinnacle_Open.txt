@@ -1,0 +1,10 @@
+TOURNAMENT: FLASHPOINT Global Qualifier - Pinnacle Open
+MULTIPLIER: 1
+MAX_SCORE: 432
+
+Input used:
+1	The Chosen Ones	RippSir	55 / 20	186	57	318
+2	Last minute borci	Tademon	68 / 20	167	30	285
+3	Cuh	Vrzman	55 / 25	138	48	266
+4	en ten týky dva spalíky	KokyTheGod	44 / 20	150	30	244
+5	covid 1 : 0 sasova lyzovacka	impvlse	57 / 25	89	57	228

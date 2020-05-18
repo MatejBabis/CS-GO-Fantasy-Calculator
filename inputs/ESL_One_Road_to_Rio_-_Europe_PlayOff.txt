@@ -1,0 +1,10 @@
+TOURNAMENT: ESL One Road to Rio - Europe PlayOff
+MULTIPLIER: 1
+MAX_SCORE: 400
+
+Input used:
+1	Jebo chlebo	Tademon	80 / 20	94	51	245
+2	The Chosen Ones	RippSir	65 / 30	79	33	207
+3	Broldzera jako všichni	Vrzman	51 / 30	24	6	111
+4	otvira se mi v kapse knif	impvlse	50 / 25	-19	6	62
+5	Bongistaan	KokyTheGod	30 / 20	24	-30	44

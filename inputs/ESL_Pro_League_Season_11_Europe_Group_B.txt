@@ -1,0 +1,10 @@
+TOURNAMENT: ESL Pro League Season 11 Europe Group B
+MULTIPLIER: 0.9
+MAX_SCORE: 320
+
+Input used:
+1	dej si cecko na imunitu	KokyTheGod	71 / 25	69	42	207
+2	xD	Vrzman	77 / 35	15	51	178
+3	The Chosen Ones	RippSir	69 / 25	31	51	176
+4	podle citu xD	impvlse	77 / 20	15	51	163
+5	xD xD	Tademon	65 / 10	-17	42	100

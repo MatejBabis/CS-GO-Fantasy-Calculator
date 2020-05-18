@@ -1,0 +1,10 @@
+TOURNAMENT: ESL Pro League Season 11 Europe Group A
+MULTIPLIER: 0.9
+MAX_SCORE: 438
+
+Input used:
+1	IhateBardolphmorethanmyself	Tademon	67 / 20	153	60	300
+2	The Chosen Ones	RippSir	69 / 30	129	69	297
+3	Top Fan	Vrzman	65 / 35	122	69	291
+4	pizzu?	KokyTheGod	57 / 5	95	78	235
+5	Semmler's GODSENT	impvlse	63 / 30	41	51	185

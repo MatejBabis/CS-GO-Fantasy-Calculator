@@ -1,0 +1,10 @@
+TOURNAMENT: ESL Pro League Season 11 Europe C
+MULTIPLIER: 0.9
+MAX_SCORE: 335
+
+Input used:
+1	ucesana prdel	impvlse	91 / 35	123	60	309
+2	The Chosen Ones	RippSir	67 / 25	133	69	294
+3	online sux	KokyTheGod	69 / 35	100	78	282
+4	Karrantena	Vrzman	69 / 25	76	69	239
+5	Co je moc, to je prilis	Tademon	47 / 15	23	69	154

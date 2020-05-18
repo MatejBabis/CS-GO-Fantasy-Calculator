@@ -1,0 +1,10 @@
+TOURNAMENT: Flashpoint 1 Group Stage
+MULTIPLIER: 1.1
+MAX_SCORE: 614
+
+Input used:
+1	Flespojnt	Tademon	111 / 25	317	114	567
+2	Sonix C	Vrzman	76 / 25	141	6	248
+3	The Chosen Ones	RippSir	78 / 30	104	15	227
+4	87-0	KokyTheGod	71 / 15	51	15	152
+5	podle citu :(	impvlse	58 / 15	46	-12	107

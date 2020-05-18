@@ -1,0 +1,10 @@
+TOURNAMENT: ESL Pro League Season 11 Europe Stage 2
+MULTIPLIER: 0.9
+MAX_SCORE: 413
+
+Input used:
+1	Rouska a respirator	KokyTheGod	91 / 40	129	21	281
+2	Jakej dement mi bere jmeno?	RippSir	68 / 35	104	21	228
+3	Nemam	Tademon	68 / 35	103	21	227
+4	The Chosen Ones	impvlse	84 / 25	77	30	216
+5	Predposledni	Vrzman	58 / 35	12	-15	90

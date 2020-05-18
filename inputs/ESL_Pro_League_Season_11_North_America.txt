@@ -1,0 +1,10 @@
+TOURNAMENT: ESL Pro League Season 11 North America
+MULTIPLIER: 0.9
+MAX_SCORE: 487
+
+Input used:
+1	na cs omglul	impvlse	104 / 35	188	78	405
+2	The Chosen Ones	RippSir	113 / 30	125	78	346
+3	EU>NA	Vrzman	89 / 20	169	60	338
+4	Amerish bojs	Tademon	102 / 30	82	60	274
+5	NA online random shit	KokyTheGod	81 / 30	62	60	233
